@@ -59,8 +59,10 @@ a:visited{ color:#dbe6a3}
   padding:20px;
 }
 #contact a{
-  color:#000;
+  color:#625ff1;
   text-decoration:none;
+  font-size: larger;
+  font-style: italic;
 }
 
 .fakeimg{
